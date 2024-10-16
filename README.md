@@ -2,6 +2,23 @@
 
 '단위 테스트' 책을 읽고 정리합니다.
 [책 링크](https://www.yes24.com/Product/Goods/104084175)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/83d25bd0-9a52-48f6-adfb-c38741bcdcb4" alt="image" width="300">
+</div>
+
+
+## 🔥 스터디 참여 멤버
+<table>
+  <tbody>
+    <tr>
+        <td align="center"><a href="https://github.com/abc5259"><img src="https://avatars.githubusercontent.com/abc5259" width="150px;" alt=""/><br /><sub><b>이재훈</b></sub></a></td>
+        <td align="center"><a href="https://github.com/minje0204"><img src="https://avatars.githubusercontent.com/minje0204" width="150px;" alt=""/><br /><sub><b>조민제</b></sub></a></td>
+      <td align="center"><a href="https://github.com/heejjinkim"><img src="https://avatars.githubusercontent.com/heejjinkim" width="150px;" alt=""/><br /><sub><b>김희진</b></sub></a></td>
+      <td align="center"><a href="https://github.com/Dompoo"><img src="https://avatars.githubusercontent.com/Dompoo" width="150px;" alt=""/><br /><sub><b>이창근</b></sub></a></td>
+      <td align="center"><a href="https://github.com/eun-seong"><img src="https://avatars.githubusercontent.com/eun-seong" width="150px;" alt=""/><br /><sub><b>이은성</b></sub></a></td>
+    </tr>
+  </tobdy>
+</table>
 
 ## 📌진행 방식
 
