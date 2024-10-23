@@ -2,6 +2,23 @@
 
 '단위 테스트' 책을 읽고 정리합니다.
 [책 링크](https://www.yes24.com/Product/Goods/104084175)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/83d25bd0-9a52-48f6-adfb-c38741bcdcb4" alt="image" width="300">
+</div>
+
+
+## 🔥 스터디 참여 멤버
+<table>
+  <tbody>
+    <tr>
+        <td align="center"><a href="https://github.com/abc5259"><img src="https://avatars.githubusercontent.com/abc5259" width="150px;" alt=""/><br /><sub><b>이재훈</b></sub></a></td>
+        <td align="center"><a href="https://github.com/minje0204"><img src="https://avatars.githubusercontent.com/minje0204" width="150px;" alt=""/><br /><sub><b>조민제</b></sub></a></td>
+      <td align="center"><a href="https://github.com/heejjinkim"><img src="https://avatars.githubusercontent.com/heejjinkim" width="150px;" alt=""/><br /><sub><b>김희진</b></sub></a></td>
+      <td align="center"><a href="https://github.com/Dompoo"><img src="https://avatars.githubusercontent.com/Dompoo" width="150px;" alt=""/><br /><sub><b>이창근</b></sub></a></td>
+      <td align="center"><a href="https://github.com/eun-seong"><img src="https://avatars.githubusercontent.com/eun-seong" width="150px;" alt=""/><br /><sub><b>이은성</b></sub></a></td>
+    </tr>
+  </tobdy>
+</table>
 
 ## 📌진행 방식
 
@@ -24,9 +41,9 @@
 | 6장 단위 테스트 스타일                    |2024.08.29| 김희진, 이창근 |
 | 7장 가치 있는 단위 테스트를 위한 리팩터링 | 2024.09.11. | 이은성, 이재훈 |
 | 8장 통합 테스트를 하는 이유               | 2024.09.25. | 김희진, 조민제|
-| 9장 목 처리에 대한 모범 사례              |            | 이창근 |
-| 10장 데이터베이스 테스트                  |            | 이은성, 이재훈 |
-| 11장 단위 테스트 안티 패턴                |            | 김희진, 조민제 |
+| 9장 목 처리에 대한 모범 사례              | 2024.10.02  | 이창근 |
+| 10장 데이터베이스 테스트                  | 2024.10.16 | 이은성, 이재훈 |
+| 11장 단위 테스트 안티 패턴                | 2024.10.23 | 김희진, 조민제 |
 
 ## 📁 업로드 규칙
 
